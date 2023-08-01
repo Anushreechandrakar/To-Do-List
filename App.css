@@ -1,0 +1,12 @@
+body{
+  background: linear-gradient(to right,gray,black);
+  background-image:url("https://img.freepik.com/free-vector/fruit-vegetables-background_23-2148497857.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.todo-app{
+  align-items: center;
+  color:rgb(79, 7, 107);
+  padding: 50px 470px;
+font-size: 25px;
+}

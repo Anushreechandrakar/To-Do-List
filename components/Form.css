@@ -1,0 +1,48 @@
+
+  .todo-container .todo-form input{
+    width: 200px;
+    height:20px;
+    border-radius: 4px;
+    margin-left: 3px;
+    border-style: solid;
+    border-color:purple;
+  }
+  .todo-button{
+    height: 30px;
+    width: 60px;
+  }
+  .todo{
+    margin-top: 3px;
+  }
+  .checklist{
+    margin-left: 60px;
+  }
+  .checklist button{
+    background:linear-gradient(to right,rgb(99, 10, 143),yellow);
+    height:30px;
+    border-radius: 4px;
+    border-style: solid;
+  }
+  .todo-container .todo-form button{
+    background:linear-gradient(to right,rgb(99, 10, 143),yellow);
+    height:30px;
+    width:50px;
+    border-radius: 4px;
+    border-style: solid;
+  }
+  .todo-list .todo-item button{
+    background:linear-gradient(to right,rgb(99, 10, 143),yellow);
+    height:30px;
+    border-radius: 4px;
+    border-style: solid;
+  }
+  .todo-list .todo-item input{
+    background:linear-gradient(to right,rgb(99, 10, 143),yellow);
+    width: 200px;
+    color:beige;
+    height:20px;
+    border-radius: 4px;
+    margin-left: 3px;
+    border-style: solid;
+    border-color: blueviolet;
+  }
